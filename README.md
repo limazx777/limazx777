@@ -29,8 +29,6 @@
 - 📘 Atualmente aprimorando meus conhecimentos em **Python** e **JavaScript**.  
 - 💬 Aberto a colaborações e novos aprendizados!  
 
----
-
 <p align="center">
   <img src="https://github.com/limazx777/limazx777/blob/output/snake.svg" alt="Cobrinha comendo commits">
 </p>
