@@ -31,7 +31,6 @@
 
 ---
 
-### 📂 Projetos em destaque
-🔹 **Sistema de Agendamento Clínico** – App para controle de pacientes e horários com Python + Flask  
-🔹 **Chatbot de Cobrança** – Automação para envio de mensagens e boletos  
-🔹 **Landing Pages e Sites Responsivos** – HTML, CSS e JS  
+<p align="center">
+  <img src="https://github.com/limazx777/limazx777/blob/output/snake.svg" alt="Cobrinha comendo commits">
+</p>
