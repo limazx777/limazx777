@@ -23,5 +23,5 @@
 
 ### 🧩 Sobre mim
 - 🔧 Gosto de desenvolver **sistemas práticos**, **interfaces organizadas** e **automações simples**.  
-- 📘 Atualmente aprimorando meus conhecimentos em **Python** e **JavaScript**.  
+- 📘 Atualmente aprimorando meus conhecimentos em **c#** e **Node.js**.  
 - 💬 Aberto a colaborações e novos aprendizados!  
